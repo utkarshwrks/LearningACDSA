@@ -19,6 +19,6 @@ int main(){
 	
 }
 
-cout<<b;
+cout<<b<<endl;;
 cout<<max;
 }
