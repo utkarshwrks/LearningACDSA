@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
