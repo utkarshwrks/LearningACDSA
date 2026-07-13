@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
