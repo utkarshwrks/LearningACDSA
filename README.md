@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/utkarshwrks/LearningACDSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
