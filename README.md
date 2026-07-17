@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
+| [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
+| [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
+| [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 ## Depth-First Search
 |  |
