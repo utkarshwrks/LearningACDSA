@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
 ## Depth-First Search
