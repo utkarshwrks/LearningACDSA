@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
