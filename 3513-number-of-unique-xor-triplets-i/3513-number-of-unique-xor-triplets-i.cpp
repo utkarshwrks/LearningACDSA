@@ -5,10 +5,6 @@ public:
 
         if (n <= 2) return n;
 
-        int ans = 1;
-        while (ans <= n)
-            ans <<= 1;
-
-        return ans;
+        return 1 << (32 - __builtin_clz(n));
     }
 };
