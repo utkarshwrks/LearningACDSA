@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
+| [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
