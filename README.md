@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkarshwrks/LearningACDSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3731-find-missing-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
