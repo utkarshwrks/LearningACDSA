@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshwrks/LearningACDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
