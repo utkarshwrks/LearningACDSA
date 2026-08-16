@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/utkarshwrks/LearningACDSA/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Brainteaser
 |  |
 | ------- |
