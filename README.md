@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
