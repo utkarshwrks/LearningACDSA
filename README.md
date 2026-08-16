@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshwrks/LearningACDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshwrks/LearningACDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/utkarshwrks/LearningACDSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
 | ------- |
