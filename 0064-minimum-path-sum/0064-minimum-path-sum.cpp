@@ -1,26 +1,28 @@
 class Solution {
 public:
     
-    int solvetab(vector<vector<int>> grid) {
+    int solveso(vector<vector<int>> grid) {
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<int>> dp(n, vector<int>(m, 0));
-        dp[n - 1][m - 1] = grid[n - 1][m - 1];
+        vector<int> next(m), curr(m);
 
-        for (int i = n - 2; i >= 0; i--) {
-            dp[i][m - 1] = grid[i][m - 1] + dp[i + 1][m - 1];
-        }
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = m - 1; j >= 0; j--) {
 
-        for (int j = m - 2; j >= 0; j--) {
-            dp[n - 1][j] = grid[n - 1][j] + dp[n - 1][j + 1];
-        }
-
-        for (int i = n - 2; i >= 0; i--) {
-            for (int j = m - 2; j >= 0; j--) {
-                dp[i][j] = grid[i][j] + min(dp[i + 1][j], dp[i][j + 1]);
+                if (i == n - 1 && j == m - 1) {
+                    curr[j] = grid[i][j];
+                } else if (i == n - 1) {
+                    curr[j] = grid[i][j] + curr[j + 1];
+                } else if (j == m - 1) {
+                    curr[j] = grid[i][j] + next[j];
+                } else {
+                    curr[j] = grid[i][j] + min(next[j], curr[j + 1]);
+                }
             }
+
+            next = curr;
         }
-        return dp[0][0];
+        return next[0];
     }
    
 
@@ -29,7 +31,7 @@ public:
         int m = grid[0].size();
         vector<vector<int>> dp(n, vector<int>(m, -1));
         
-     return solvetab(grid);
+     return solveso(grid);
         
     }
 };
