@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
