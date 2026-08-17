@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshwrks/LearningACDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/utkarshwrks/LearningACDSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
