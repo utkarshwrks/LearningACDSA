@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -178,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
