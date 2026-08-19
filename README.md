@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
