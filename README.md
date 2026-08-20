@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1436-destination-city](https://github.com/utkarshwrks/LearningACDSA/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshwrks/LearningACDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshwrks/LearningACDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/utkarshwrks/LearningACDSA/tree/master/2090-k-radius-subarray-averages) |
@@ -295,4 +298,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
