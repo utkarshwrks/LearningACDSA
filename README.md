@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/utkarshwrks/LearningACDSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/utkarshwrks/LearningACDSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
