@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/utkarshwrks/LearningACDSA/tree/master/0006-zigzag-conversion) |
+| [0091-decode-ways](https://github.com/utkarshwrks/LearningACDSA/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/utkarshwrks/LearningACDSA/tree/master/0290-word-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/utkarshwrks/LearningACDSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
