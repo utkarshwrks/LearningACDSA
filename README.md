@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/utkarshwrks/LearningACDSA/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/utkarshwrks/LearningACDSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
