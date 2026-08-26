@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/utkarshwrks/LearningACDSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/utkarshwrks/LearningACDSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/utkarshwrks/LearningACDSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 <!---LeetCode Topics End-->
