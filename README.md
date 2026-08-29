@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/utkarshwrks/LearningACDSA/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2466-count-ways-to-build-good-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Brainteaser
 |  |
