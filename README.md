@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1306-jump-game-iii) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/utkarshwrks/LearningACDSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1306-jump-game-iii) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
