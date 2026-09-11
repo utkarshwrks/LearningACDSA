@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/utkarshwrks/LearningACDSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
+| [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/utkarshwrks/LearningACDSA/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
@@ -405,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
