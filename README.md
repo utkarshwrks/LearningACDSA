@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
+| [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/utkarshwrks/LearningACDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Knapsack Problem
 |  |
