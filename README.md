@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/utkarshwrks/LearningACDSA/tree/master/0650-2-keys-keyboard) |
+| [0836-rectangle-overlap](https://github.com/utkarshwrks/LearningACDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -421,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/utkarshwrks/LearningACDSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
