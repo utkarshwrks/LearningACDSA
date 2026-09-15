@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/utkarshwrks/LearningACDSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/utkarshwrks/LearningACDSA/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2466-count-ways-to-build-good-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/2466-count-ways-to-build-good-strings) |
+| [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Brainteaser
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
+| [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/utkarshwrks/LearningACDSA/tree/master/0836-rectangle-overlap) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
