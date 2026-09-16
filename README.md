@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/utkarshwrks/LearningACDSA/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/utkarshwrks/LearningACDSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/utkarshwrks/LearningACDSA/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/utkarshwrks/LearningACDSA/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Knapsack Problem
 |  |
