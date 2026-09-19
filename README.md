@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/utkarshwrks/LearningACDSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/utkarshwrks/LearningACDSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/utkarshwrks/LearningACDSA/tree/master/2090-k-radius-subarray-averages) |
