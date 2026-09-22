@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/utkarshwrks/LearningACDSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
+| [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/utkarshwrks/LearningACDSA/tree/master/0650-2-keys-keyboard) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
@@ -439,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
