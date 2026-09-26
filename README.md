@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshwrks/LearningACDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/1669-merge-in-between-linked-lists) |
 ## Knapsack Problem
 |  |
 | ------- |
