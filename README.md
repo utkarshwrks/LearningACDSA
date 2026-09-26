@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/utkarshwrks/LearningACDSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshwrks/LearningACDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/utkarshwrks/LearningACDSA/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/utkarshwrks/LearningACDSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
