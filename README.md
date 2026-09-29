@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/utkarshwrks/LearningACDSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/utkarshwrks/LearningACDSA/tree/master/2090-k-radius-subarray-averages) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshwrks/LearningACDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/utkarshwrks/LearningACDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/utkarshwrks/LearningACDSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/utkarshwrks/LearningACDSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/utkarshwrks/LearningACDSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/utkarshwrks/LearningACDSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/utkarshwrks/LearningACDSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Binary Search
 |  |
 | ------- |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/utkarshwrks/LearningACDSA/tree/master/1462-course-schedule-iv) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bracket Sequences
 |  |
 | ------- |
