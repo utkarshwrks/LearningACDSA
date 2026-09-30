@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/utkarshwrks/LearningACDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1436-destination-city](https://github.com/utkarshwrks/LearningACDSA/tree/master/1436-destination-city) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/utkarshwrks/LearningACDSA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/utkarshwrks/LearningACDSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/utkarshwrks/LearningACDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
