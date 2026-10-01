@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/utkarshwrks/LearningACDSA/tree/master/2000-reverse-prefix-of-word) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/utkarshwrks/LearningACDSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/utkarshwrks/LearningACDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/utkarshwrks/LearningACDSA/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
 | [2466-count-ways-to-build-good-strings](https://github.com/utkarshwrks/LearningACDSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
