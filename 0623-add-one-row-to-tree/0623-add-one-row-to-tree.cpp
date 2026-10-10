@@ -8,27 +8,43 @@ public:
             return newRoot;
         }
 
-        dfs(root, val, 1, depth);
-        return root;
-    }
+        queue<TreeNode*> q;
+        q.push(root);
 
-    void dfs(TreeNode* cur, int val, int level, int depth) {
-        if (cur == nullptr) return;
+        int level = 1;
 
-        if (level == depth - 1) {
-            TreeNode* leftNode = new TreeNode(val);
-            TreeNode* rightNode = new TreeNode(val);
+        while (!q.empty()) {
+            int sz = q.size();
 
-            leftNode->left = cur->left;
-            rightNode->right = cur->right;
+            if (level == depth - 1) {
+                while (sz--) {
+                    TreeNode* cur = q.front();
+                    q.pop();
 
-            cur->left = leftNode;
-            cur->right = rightNode;
+                    TreeNode* leftNode = new TreeNode(val);
+                    TreeNode* rightNode = new TreeNode(val);
 
-            return;
+                    leftNode->left = cur->left;
+                    rightNode->right = cur->right;
+
+                    cur->left = leftNode;
+                    cur->right = rightNode;
+                }
+
+                break;
+            }
+
+            while (sz--) {
+                TreeNode* cur = q.front();
+                q.pop();
+
+                if (cur->left) q.push(cur->left);
+                if (cur->right) q.push(cur->right);
+            }
+
+            level++;
         }
 
-        dfs(cur->left, val, level + 1, depth);
-        dfs(cur->right, val, level + 1, depth);
+        return root;
     }
 };
