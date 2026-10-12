@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0328-odd-even-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/0328-odd-even-linked-list) |
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
