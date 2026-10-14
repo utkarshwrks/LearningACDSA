@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/utkarshwrks/LearningACDSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
@@ -576,8 +580,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
