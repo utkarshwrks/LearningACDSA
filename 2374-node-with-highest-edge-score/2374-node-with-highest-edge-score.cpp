@@ -1,20 +1,17 @@
-
 class Solution {
 public:
     int edgeScore(vector<int>& edges) {
-        unordered_map<int, long long> mp;
         int n = edges.size();
+        vector<long long> score(n, 0);
 
         for (int i = 0; i < n; i++) {
-            mp[edges[i]] += i;
+            score[edges[i]] += i;
         }
 
         int ans = 0;
-        long long maxi = -1;
 
-        for (int i = 0; i < n; i++) {
-            if (mp[i] > maxi) {
-                maxi = mp[i];
+        for (int i = 1; i < n; i++) {
+            if (score[i] > score[ans]) {
                 ans = i;
             }
         }
