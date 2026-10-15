@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-number-of-ways-to-earn-points](https://github.com/utkarshwrks/LearningACDSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/utkarshwrks/LearningACDSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshwrks/LearningACDSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -568,10 +570,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
