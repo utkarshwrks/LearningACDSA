@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/utkarshwrks/LearningACDSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2374-node-with-highest-edge-score](https://github.com/utkarshwrks/LearningACDSA/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshwrks/LearningACDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
+| [2374-node-with-highest-edge-score](https://github.com/utkarshwrks/LearningACDSA/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshwrks/LearningACDSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkarshwrks/LearningACDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
