@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
+| [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshwrks/LearningACDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshwrks/LearningACDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
