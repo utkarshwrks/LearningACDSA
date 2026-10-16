@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
+| [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshwrks/LearningACDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/utkarshwrks/LearningACDSA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/utkarshwrks/LearningACDSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -603,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
