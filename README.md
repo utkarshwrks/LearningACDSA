@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
@@ -623,5 +625,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
