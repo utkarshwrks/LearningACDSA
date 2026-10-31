@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/utkarshwrks/LearningACDSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/utkarshwrks/LearningACDSA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0032-longest-valid-parentheses) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/utkarshwrks/LearningACDSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0064-minimum-path-sum) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/utkarshwrks/LearningACDSA/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
