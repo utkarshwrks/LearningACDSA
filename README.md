@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0525-contiguous-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/utkarshwrks/LearningACDSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/utkarshwrks/LearningACDSA/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/utkarshwrks/LearningACDSA/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/utkarshwrks/LearningACDSA/tree/master/0836-rectangle-overlap) |
