@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/utkarshwrks/LearningACDSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/utkarshwrks/LearningACDSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0275-h-index-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/utkarshwrks/LearningACDSA/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshwrks/LearningACDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
