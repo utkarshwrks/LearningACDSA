@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshwrks/LearningACDSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkarshwrks/LearningACDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utkarshwrks/LearningACDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkarshwrks/LearningACDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/utkarshwrks/LearningACDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/3904-smallest-stable-index-ii) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/utkarshwrks/LearningACDSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshwrks/LearningACDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkarshwrks/LearningACDSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
