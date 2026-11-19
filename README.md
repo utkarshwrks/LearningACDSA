@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/utkarshwrks/LearningACDSA/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/utkarshwrks/LearningACDSA/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/utkarshwrks/LearningACDSA/tree/master/0290-word-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/utkarshwrks/LearningACDSA/tree/master/0917-reverse-only-letters) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/utkarshwrks/LearningACDSA/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
@@ -372,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/utkarshwrks/LearningACDSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/utkarshwrks/LearningACDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/utkarshwrks/LearningACDSA/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/utkarshwrks/LearningACDSA/tree/master/1020-number-of-enclaves) |
