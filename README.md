@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0623-add-one-row-to-tree) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/utkarshwrks/LearningACDSA/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/utkarshwrks/LearningACDSA/tree/master/0290-word-pattern) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/utkarshwrks/LearningACDSA/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0310-minimum-height-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/utkarshwrks/LearningACDSA/tree/master/0547-number-of-provinces) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/utkarshwrks/LearningACDSA/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshwrks/LearningACDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Sliding Window
 |  |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -582,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -698,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0538-convert-bst-to-greater-tree) |
