@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1306-jump-game-iii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/utkarshwrks/LearningACDSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utkarshwrks/LearningACDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/utkarshwrks/LearningACDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/utkarshwrks/LearningACDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshwrks/LearningACDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshwrks/LearningACDSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0993-cousins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/utkarshwrks/LearningACDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshwrks/LearningACDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -711,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Randomized
 |  |
 | ------- |
