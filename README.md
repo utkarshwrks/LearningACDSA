@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/utkarshwrks/LearningACDSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/utkarshwrks/LearningACDSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/utkarshwrks/LearningACDSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/utkarshwrks/LearningACDSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/utkarshwrks/LearningACDSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/0416-partition-equal-subset-sum) |
