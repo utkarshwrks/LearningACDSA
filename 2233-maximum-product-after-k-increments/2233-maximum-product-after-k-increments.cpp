@@ -3,7 +3,7 @@ public:
     int maximumProduct(vector<int>& nums, int k) {
         const long long MOD = 1e9 + 7;
 
-        sort(nums.begin(), nums.end());
+        
 
         priority_queue<int, vector<int>, greater<int>> pq;
 
