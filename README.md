@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/utkarshwrks/LearningACDSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/utkarshwrks/LearningACDSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/utkarshwrks/LearningACDSA/tree/master/1845-seat-reservation-manager) |
 | [2233-maximum-product-after-k-increments](https://github.com/utkarshwrks/LearningACDSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1845-seat-reservation-manager](https://github.com/utkarshwrks/LearningACDSA/tree/master/1845-seat-reservation-manager) |
 ## Sliding Window
 |  |
 | ------- |
