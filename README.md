@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/utkarshwrks/LearningACDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/utkarshwrks/LearningACDSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/utkarshwrks/LearningACDSA/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/utkarshwrks/LearningACDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/utkarshwrks/LearningACDSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/utkarshwrks/LearningACDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/1025-divisor-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/utkarshwrks/LearningACDSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshwrks/LearningACDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshwrks/LearningACDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
