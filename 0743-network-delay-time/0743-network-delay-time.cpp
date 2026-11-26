@@ -35,10 +35,10 @@ public:
             }
         }
 
-        int ans = *max_element(dist.begin() + 1, dist.end());
-
-        if (ans == INT_MAX) {
-            return -1;
+         int ans = 0;
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] == INT_MAX) return -1;
+            ans = max(ans, dist[i]);
         }
 
         return ans;
