@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/utkarshwrks/LearningACDSA/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0817-linked-list-components](https://github.com/utkarshwrks/LearningACDSA/tree/master/0817-linked-list-components) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/utkarshwrks/LearningACDSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/utkarshwrks/LearningACDSA/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshwrks/LearningACDSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/utkarshwrks/LearningACDSA/tree/master/1046-last-stone-weight) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/utkarshwrks/LearningACDSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshwrks/LearningACDSA/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/utkarshwrks/LearningACDSA/tree/master/1288-remove-covered-intervals) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/utkarshwrks/LearningACDSA/tree/master/0290-word-pattern) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshwrks/LearningACDSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/utkarshwrks/LearningACDSA/tree/master/0856-score-of-parentheses) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarshwrks/LearningACDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/utkarshwrks/LearningACDSA/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/utkarshwrks/LearningACDSA/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/utkarshwrks/LearningACDSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/utkarshwrks/LearningACDSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/utkarshwrks/LearningACDSA/tree/master/0771-jewels-and-stones) |
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/utkarshwrks/LearningACDSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
@@ -785,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarshwrks/LearningACDSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -798,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/utkarshwrks/LearningACDSA/tree/master/0743-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
