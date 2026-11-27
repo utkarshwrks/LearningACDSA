@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/utkarshwrks/LearningACDSA/tree/master/1854-maximum-population-year) |
 | [1905-count-sub-islands](https://github.com/utkarshwrks/LearningACDSA/tree/master/1905-count-sub-islands) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/utkarshwrks/LearningACDSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/utkarshwrks/LearningACDSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/utkarshwrks/LearningACDSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/utkarshwrks/LearningACDSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshwrks/LearningACDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/utkarshwrks/LearningACDSA/tree/master/1845-seat-reservation-manager) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/utkarshwrks/LearningACDSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/utkarshwrks/LearningACDSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarshwrks/LearningACDSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/utkarshwrks/LearningACDSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utkarshwrks/LearningACDSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/utkarshwrks/LearningACDSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/utkarshwrks/LearningACDSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Monotonic Stack
 |  |
