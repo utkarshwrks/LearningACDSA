@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/utkarshwrks/LearningACDSA/tree/master/1845-seat-reservation-manager) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/utkarshwrks/LearningACDSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/utkarshwrks/LearningACDSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2336-smallest-number-in-infinite-set](https://github.com/utkarshwrks/LearningACDSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshwrks/LearningACDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/utkarshwrks/LearningACDSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/utkarshwrks/LearningACDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/utkarshwrks/LearningACDSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/utkarshwrks/LearningACDSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/utkarshwrks/LearningACDSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/utkarshwrks/LearningACDSA/tree/master/2370-longest-ideal-subsequence) |
 | [2374-node-with-highest-edge-score](https://github.com/utkarshwrks/LearningACDSA/tree/master/2374-node-with-highest-edge-score) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshwrks/LearningACDSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/utkarshwrks/LearningACDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/utkarshwrks/LearningACDSA/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/utkarshwrks/LearningACDSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -812,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/utkarshwrks/LearningACDSA/tree/master/0692-top-k-frequent-words) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/utkarshwrks/LearningACDSA/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
